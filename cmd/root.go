@@ -1,5 +1,5 @@
 /*
-Copyright © 2022 NAME HERE jimmy.ungerman@gmail.com
+Copyright © 2022 Jimmy Ungerman jimmy.ungerman@gmail.com
 
 */
 package cmd
