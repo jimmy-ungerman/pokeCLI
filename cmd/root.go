@@ -124,4 +124,6 @@ func initConfig() {
 	}
 }
 
-
+func fetchPokemon() {
+	
+}
